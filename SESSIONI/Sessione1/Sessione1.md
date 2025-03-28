@@ -2,6 +2,7 @@
 Rivela al party alcune cose
 ## Tutto il party si riunisce
 # Quest: ricerca del medaglione al secondo piano 
+
 ## !! Il party si aspettava un combattimento ma al piano di sopra non hanno trovato assolutamente nulla!!
 ### Alessandro ha preso lo spallaccio di [[Requiem, il tetrarca della Guerra]]
 
