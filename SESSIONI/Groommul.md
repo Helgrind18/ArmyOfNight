@@ -1,0 +1,4 @@
+È il nano che il party ha trovato dentro la cella nelle [[Prigioni]]. 
+Ha rivelato loro alcune cose, come ad esempio il suo dialogo all'inizio della [[CAMPAGNA]]
+Un signore anziano, dall'aspetto trasandato, inizia ad impazzire "Ah, sì, da dove iniziava? Mmmm... Un mare, un sole nero, una donna... VETRO. No, non era così che iniziava, c'erano delle carte... Un viola intenso, un castello... Non ricordo... Maschere, maschere ovunque. Le divinità stanno cadendo, non esistono più freni. LA NOTTE STA CADENDO DI NUOVO". Dice l'uomo prima di avere un lampo viola negli occhi e rivolgersi alla Luna.
+![[Groommul.jpg]]

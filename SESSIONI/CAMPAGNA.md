@@ -44,5 +44,7 @@ Oltrepassano i Cancelli che separano la città dal resto del sottosuolo.
 
 Il party deve provare di poter entrare nella [[Gilda dei Ladri]] deve provare la propria fedeltà mediante 3 missioni
 
+## Vengono portati davanti alla [[Gilda dei Ladri]]
+Qui dentro non vengono visti, inizialmente, di buon occhio, effettivamente non fanno ancora parte della Gilda, lo dovranno dimostrare con le loro 3 prove
 # Quest: [[Prova del Silenzio]]
 # Quest: [[Quest→Il Tributo Scomparso]]

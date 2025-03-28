@@ -50,3 +50,5 @@
    Le Ombre Silenti  - I Corrotti    
   -------------------------
    I Senza Volto -  Gli Occhi del Crepuscolo - Gli Artigli Neri 
+
+Logo della Gilda dei Ladri
