@@ -15,7 +15,3 @@ Un vecchio avamposto della [[Chiesa del Sole Nero]], le sue mura sono fatte d'os
 
 ## Solmire, la città sepolta
 Il luogo effettivamente all'interno del quale la tua **Gilda** è presente. 
-
-# Gilda dei ladri
-Gilda piramidale
-In cima 
