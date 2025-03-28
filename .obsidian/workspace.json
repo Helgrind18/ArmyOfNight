@@ -11,12 +11,10 @@
             "id": "18a1adcdb1c31291",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "FantasyEmporium.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "FantasyEmporium"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
             }
           }
         ]
@@ -166,23 +164,26 @@
   },
   "active": "18a1adcdb1c31291",
   "lastOpenFiles": [
+    "SESSIONI/Stum Gronov.md",
+    "SESSIONI/Groommul.md",
+    "FantasyEmporium.jpg",
+    "Sottosuolo/Solmire (HUB)/Mercato Crepuscolare.md",
+    "SESSIONI/Sessione1/Prigioni.md",
+    "Immagini/Stum Gronov.jpg",
+    "Immagini/Solmire.png",
+    "Immagini/Mercato Crepuscolare.webp",
+    "Immagini/Groommul.jpg",
+    "Immagini/Donna a capo della gilda.jpg",
     "FantasyShopkeeper.jpg",
     "Mercato Crepuscolare.webp",
-    "FantasyEmporium.jpg",
     "Caverna BMM.webp",
     "73vcdgzy4ojb1.jpg",
-    "Donna a capo della gilda.jpg",
-    "Cavalcature/Screenshot 2025-03-28 161015.png",
-    "Cavalcature/Screenshot 2025-03-28 160923.png",
     "Cavalcature",
     "Sottosuolo/Solmire (HUB)/Solmire, la città sepolta.md",
     "Sottosuolo/Solmire (HUB)/Quartieri Dimenticati.md",
     "Sottosuolo/Solmire (HUB)",
     "Quest/Quest→Il Tributo Scomparso.md",
     "Quest/Prova del Silenzio.md",
-    "Quest",
-    "Solmire (1).png",
-    "Groommul.jpg",
-    "Stum Gronov.jpg"
+    "Quest"
   ]
 }
