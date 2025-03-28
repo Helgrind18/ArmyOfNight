@@ -1,0 +1,1 @@
+Un vecchio avamposto della [[Chiesa del Sole Nero]], le sue mura sono fatte d'ossa e i morti vengono arsi vivi proprio su delle croci. **È il luogo dove i condannati vengono inviati**. La stranezza di questo luogo è che il fumo ed il fuoco hanno bruciato per molto tempo da rendere il soffitto come se ci fosse un tramonto (rosso) perenne.

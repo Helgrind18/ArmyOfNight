@@ -1,0 +1,1 @@
+Un labirinto di catacombe. Qui giacciono i resti dei martiri della [[Chiesa del Sole Nero]], ma la terra stessa bisbiglia, e chi ascolta a lungo potrebbe perdere il senno. 

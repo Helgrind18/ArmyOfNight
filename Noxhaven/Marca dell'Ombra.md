@@ -1,0 +1,4 @@
+La Marca dell'Ombra è una maledizione antica, un sigillo mistico impresso sulla carne di chi osa distruggere un emissario delle Tenebre senza purificare la sua anima. Sir Kaelthorn ricevette questa cicatrice oscura dopo aver ucciso il Principe Stregone Vaelith durante il massacro di Lornhollow.
+La Marca si manifesta come un'incisione nera e irregolare che pulsa e brucia ogni volta che la corruzione del male si rafforza nel mondo. Oltre al dolore, Kaelthorn è tormentato da visioni di realtà distorte, sussurri provenienti da un’altra dimensione e un costante senso di minaccia. Alcuni sacerdoti sostengono che la Marca sia una porta verso l'Abisso e che, se non contenuta, potrebbe consumare il cavaliere stesso.
+
+**Si dice che l’unico modo per spezzare la maledizione sia trovare il frammento d’anima di Vaelith e bruciarlo nella Forgia di Aelthar, un luogo sacro nascosto oltre le montagne del nord.**

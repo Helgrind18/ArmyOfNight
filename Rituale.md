@@ -1,0 +1,1 @@
+È il rituale che risveglierà il [[Dio del Sole Nero]]. Ci sono due possibili contendenti per questo rituale: la [[Gilda dei Ladri]] e la [[Chiesa del Sole Nero]]. Entrambe hanno le proprie motivazioni per farlo, che approfondiremo nel seguito

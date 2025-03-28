@@ -1,0 +1,7 @@
+Sir Kaelthorn di Noxhaven è un paladino della [[Tetrarchia della Chiesa del Sole Bianco]].Nato nella nobile [[Casata di Noxhaven]], crebbe immerso nei dogmi della fede, forgiato nel fuoco della disciplina e temprato dalla guerra.
+
+Kaelthorn divenne una leggenda durante [[l’Assedio delle Tre Ombre]], quando le legioni degli abissali minacciarono di inghiottire [[Riften]], la capitale del mondo, ed è per questo che la civiltà si è spostata verso l'esterno . A capo della [[Compagnia Dorata]], si batté nelle strade annerite dal fuoco, respingendo le orde di n**on-morti e demoni** evocati da cultisti eretici. La sua spada, **Luminis**, forgiata nelle fiamme sacre, divenne il simbolo della resistenza contro le forze oscure.
+
+Successivamente, guidò le armate della Chiesa in una crociata contro la [[Gilda dei Ladri]], che minacciava di corrompere l'anima della capitale. Fu in questa guerra che ottenne il titolo di "Scudo di Riften", ma anche la maledizione che lo perseguita ancora oggi: durante il **massacro di Lornhollow**, uccise un principe stregone che, con l’ultimo respiro, gli impose la [[Marca dell'Ombra]], una cicatrice mistica che brucia ogni volta che la corruzione si insinua nel mondo.
+
+**Oggi, Sir Kaelthorn continua a servire la Tetrarchia, ma il tempo e le battaglie hanno scavato cicatrici profonde nella sua anima. È un eroe venerato e temuto, la cui fede è salda, ma la cui ombra si allunga sempre di più…**
