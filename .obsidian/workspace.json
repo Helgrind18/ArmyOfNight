@@ -11,10 +11,12 @@
             "id": "18a1adcdb1c31291",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "type": "image",
+              "state": {
+                "file": "Mercato Crepuscolare.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Mercato Crepuscolare"
             }
           }
         ]
@@ -164,6 +166,9 @@
   },
   "active": "2d6dfa50fe260e65",
   "lastOpenFiles": [
+    "Solmire (1).png",
+    "Mercato Crepuscolare.webp",
+    "Groommul.jpg",
     "Stum Gronov.jpg",
     "image.jpg"
   ]
