@@ -35,4 +35,7 @@ Il combattimento è suddiviso in diverse fasi
 ![[Pasted image 20250321181023.png]]
 
 ### Fine del combattimento
-Trovano lo scrigno al di sotto delle 3 croci. Devono riportarlo alla [[Gilda dei Ladri]]
+Trovano lo scrigno al di sotto delle 3 croci e 3 monete
+# Quest → Sblocca lo scrigno (Enigma delle 3 monete)
+### RICOMPENSE:
+Una lettera lasciata a terra dal capo degli accoliti:" *Mio caro fratello, sono finito in un vero e grosso guaio, da quando ho lasciato casa per seguire la [[Tetrarchia della Chiesa del Sole Bianco]] ho preso solo scelte sbagliate. Ora ho il mio ultimo compito: evocare il [[Dio del Sole Nero]], una volta per tutte, così LORO saranno contenti. Il rituale vicino [[Solmire, la città sepolta]] in realtà è solo un avvertimento, la vera conclusione sarà a [[Riften]], nella [[Cattedrale del Sole Bianco]]*".

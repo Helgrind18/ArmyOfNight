@@ -1,4 +1,5 @@
-**Il party incontra il Nano, il quale è in uno stato di trance.** 
+Il party si risveglia nelle [[Prigioni]]
+**Il party incontra il Nano [[Groommul]], il quale è in uno stato di trance.** 
 Rivela al party alcune cose
 ## Tutto il party si riunisce
 # Quest: ricerca del medaglione al secondo piano 
