@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Mercato Crepuscolare.webp"
+                "file": "FantasyEmporium.jpg"
               },
               "icon": "lucide-image",
-              "title": "Mercato Crepuscolare"
+              "title": "FantasyEmporium"
             }
           }
         ]
@@ -164,8 +164,11 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "2d6dfa50fe260e65",
+  "active": "18a1adcdb1c31291",
   "lastOpenFiles": [
+    "FantasyShopkeeper.jpg",
+    "Mercato Crepuscolare.webp",
+    "FantasyEmporium.jpg",
     "Caverna BMM.webp",
     "73vcdgzy4ojb1.jpg",
     "Donna a capo della gilda.jpg",
@@ -179,9 +182,7 @@
     "Quest/Prova del Silenzio.md",
     "Quest",
     "Solmire (1).png",
-    "Mercato Crepuscolare.webp",
     "Groommul.jpg",
-    "Stum Gronov.jpg",
-    "image.jpg"
+    "Stum Gronov.jpg"
   ]
 }
